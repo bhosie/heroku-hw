@@ -1,0 +1,11 @@
+{
+    "require": {
+        "ralouphie/getallheaders": "^2.0",
+        "nesbot/carbon": "^1.22"
+    },
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "Libs/"
+        }
+    }
+}
